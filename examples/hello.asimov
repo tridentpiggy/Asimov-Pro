@@ -1,0 +1,6 @@
+# Asimov sample
+
+fn main() {
+    let greeting = "Hello from Asimov!";
+    print(greeting);
+}
